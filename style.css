@@ -35,31 +35,3 @@
 p {
     font-size: 1.5em;
 }
-.bag {
-    width: 12rem;
-    margin-top: 14.5%;
-}
-.b {
-    box-shadow: 5px 5px 10px lightgrey;
-    height: 36vh;
-    width: 23%;
-    margin-top: 4%;
-    padding-left: 4%;
-}
-.per {
-   width: 10.5rem;
-   margin-left: 41%;
-   margin-top: 4%;
-}
-.pale {
-    width: 29rem;
-    margin-left: -2rem;
-}
-.perfume {
-    box-shadow: 5px 5px 10px lightgrey;
-    box-shadow: 5px 5px 10px lightgrey;
-}
-.shoe {
-    box-shadow: 5px 5px 10px lightgrey;
-
-}
